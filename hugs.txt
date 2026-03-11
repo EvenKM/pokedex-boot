@@ -1,0 +1,4 @@
+nvm use
+
+npm install -D typescript @types/node
+npm install -D vitest
